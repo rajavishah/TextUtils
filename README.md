@@ -1,2 +1,2 @@
 # TextUtils
-TextUtils gives you a way to analyze your text quickly and efficiently. 
+TextUtils gives you a way to analyze your text quickly and efficiently. Apart from counting words and characters, our online editor can help you to improve your writing style i.e., you can change the text from lowercase to UPPERCASE or vise-versa, and, optionally, help you to Remove Extra Spaces. To check word count, simply place your cursor into the text box and start typing. You'll see the number of characters and words increase or decrease as you type, delete, and edit them. You can also copy and paste text from another program over into the online editor.
